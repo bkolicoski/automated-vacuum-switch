@@ -1,4 +1,4 @@
-# Automated Load (Vacuum) Switch
+# Automated Load (Vacuum) Switch with Arduino and ACS712 current sensor
 
 Check out the build video of the project on YouTube
 [https://youtu.be/dfmcjT2cFxc](https://youtu.be/dfmcjT2cFxc)
